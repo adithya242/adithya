@@ -4,10 +4,10 @@ class Node:
         self.next = None
 
 # Create nodes
-node1 = Node(15)
-node2 = Node(3)
+node1 = Node(14)
+node2 = Node(2)
 node3 = Node(17)
-node4 = Node(90)
+node4 = Node(95)
 
 # Link nodes
 node1.next = node2
